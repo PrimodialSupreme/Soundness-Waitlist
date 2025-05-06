@@ -2,18 +2,18 @@
 
 # Commands
 
-```sudo apt update && sudo apt upgrade -y```
+<pre> ```sudo apt update && sudo apt upgrade -y``` </pre>
 
-```curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash```
+<pre> ```curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash``` </pre>
 
-```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh```
+<pre> ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh``` </pre>
 
-```source ~/.bashrc```
+<pre> ```source ~/.bashrc``` </pre>
 
-```soundnessup install```
+<pre> ```soundnessup install``` </pre>
 
-```soundnessup update```
+<pre> ```soundnessup update``` </pre>
 
-```soundness-cli generate-key --name my-key```
+<pre> ```soundness-cli generate-key --name my-key``` </pre>
 
-```soundness-cli export-key --name my-key```
+<pre> ```soundness-cli export-key --name my-key``` </pre>
